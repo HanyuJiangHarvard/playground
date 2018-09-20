@@ -1,3 +1,3 @@
 # Playground Repo
 
-blablabla
+Fall 2018 message.
